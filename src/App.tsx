@@ -114,7 +114,7 @@ function App() {
           
           <div className="max-w-md mx-auto">
             <img 
-              src="https://i.ibb.co/p6yF1nv2/hero-section.webp"
+              src="https://i.ibb.co/5gDPY6MG/Chat-GPT-Image-8-de-ago-de-2025-14-55-41.png"
               alt="Combo 500 Recursos para Professores"
               className="w-full rounded-2xl shadow-2xl transform hover:scale-105 transition-transform duration-300"
             />
