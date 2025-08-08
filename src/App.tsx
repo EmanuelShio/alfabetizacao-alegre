@@ -211,10 +211,15 @@ function App() {
             </p>
           </div>
           
-          <div className="max-w-2xl mx-auto">
+          <div className="grid md:grid-cols-2 gap-6 max-w-4xl mx-auto">
             <img 
               src="https://static-media.hotmart.com/eGa6ebdASHI9b-N4gY8Niyy7xyQ=/filters:quality(1):format(webp)/klickart-prod/uploads/media/file/9287385/combo.jpg"
               alt="Depoimentos de professoras satisfeitas"
+              className="w-full rounded-xl shadow-2xl"
+            />
+            <img 
+              src="https://i.ibb.co/ccDLvBwj/depoimentos-mobile.webp"
+              alt="Mais depoimentos de professoras"
               className="w-full rounded-xl shadow-2xl"
             />
           </div>
