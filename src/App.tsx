@@ -181,7 +181,7 @@ function App() {
           
           <div className="grid md:grid-cols-3 gap-6 mb-8">
             <img 
-              src="https://static-media.hotmart.com/vYuOat29vB44g_ZooMKGWi0USe0=/filters:quality(1):format(webp)/klickart-prod/uploads/media/file/8912383/7.png"
+              src="https://i.ibb.co/VpSkvJcV/bloco-1-1.png"
               alt="Exemplo de atividade"
               className="w-full rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300"
             />
