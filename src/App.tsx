@@ -186,7 +186,7 @@ function App() {
               className="w-full rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300"
             />
             <img 
-              src="https://static-media.hotmart.com/C1kZyZLWnj7ZA6zXjEGpTWce0oc=/filters:quality(1):format(webp)/klickart-prod/uploads/media/file/8912382/6.png"
+              src="https://i.ibb.co/XZB3f8ZB/bloco-2.png"
               alt="Exemplo de atividade"
               className="w-full rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300"
             />
